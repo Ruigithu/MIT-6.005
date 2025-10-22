@@ -1,0 +1,21 @@
+.DS_Store
+bin
+
+# 编译输出
+*.class
+out/
+bin/
+target/
+build/
+
+# IDE 文件
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+_MACOSX/
